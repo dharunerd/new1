@@ -1,0 +1,11 @@
+.footer{
+    background-color: blue;
+    padding: 10px;
+    gap: 5;
+    height: 18;
+    row-gap: 2;
+    .copyright-text{
+        display: block;
+        margin-top: 0.7rem;
+    }
+}
